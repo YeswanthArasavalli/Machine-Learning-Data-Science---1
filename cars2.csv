@@ -1,0 +1,12 @@
+Company Name,Model Name,On Road Pricing,Loan Amount,Monthly EMI ,Interest Rate,Monthly Principal,Monthly Interest
+Toyota,Corolla,"$20,000 ","$15,000 ",$334 ,7%,$250 ,$84 
+Ford,Fiesta,"$18,000 ","$13,500 ",$302 ,7.50%,$225 ,$77 
+Honda,Civic,"$22,000 ","$16,500 ",$369 ,8%,$275 ,$94 
+Tesla,Model3,"$40,000 ","$30,000 ",$669 ,6.50%,$500 ,$169 
+Hyundai,Tucson,"$25,000 ","$18,700 ",$419 ,7.50%,$313 ,$106 
+BMW,X5,"$60,000 ","$45,000 ","$1,004 ",6%,$750 ,$254 
+Audi,A4,"$35,000 ","$26,250 ",$587 ,7%,$437 ,$150 
+Nissan,Leaf,"$30,000 ","$22,500 ",$502 ,8%,$375 ,$127 
+Chevrolet,Camaro,"$28,000 ","$21,000 ",$470 ,8%,$350 ,$120 
+Kia,Soul,"$20,000 ","$15,000 ",$335 ,8%,250%,$85 
+,,,,,,,
